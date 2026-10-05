@@ -4,16 +4,6 @@ There have been too many people involved in Navigation Games over the years to n
 
 ## Our team
 
-### Barb Bryant
-
-- Role: President
-- Photo: barb-bryant.jpg
-- Email: president@navigationgames.org
-
-Barb got started by volunteering in her kids' classrooms in Cambridge, MA, and one thing led to another. She is now the President of Navigation Games and her focus is to bring orienteering into schools and to every child in the city. Barb is also the former Vice President of Youth Initiatives for Orienteering USA. Barb believes that orienteering teaches kids how to make good decisions: to think and act at the same time in a concerted way.
-
-Certifications: Safesport Certified, First Aid/CPR/AED Certified
-
 ### Maija Pratt
 
 - Role: Executive Director
@@ -44,53 +34,69 @@ Through schools, camps, and outdoor clubs, Erkan has introduced countless people
 
 Now, with Navigation Games, he’s helping the next generation discover that sometimes, getting a little lost in the woods is the best way to find yourself.
 
+### Mikayla Moss
+
+- Role: Conference Workshops and Grants Management
+- Photo: mikayla-moss.jpg
+- Email: mikayla@navigationgames.org
+
+Mikayla is the former Program Manager at Navigation Games and now manages conference workshops and grants, working remotely. Originally from Colorado, Mikayla's background is in natural resources and conservation science. She was formerly the program manager and executive director for a conservation organization in Montana, and brings her passion for outdoor activity and education to Navigation Games.
+
+Mikayla loves bikepacking, paddling, and backpacking with her partner.
+
+### Barb Bryant
+
+- Role: President
+- Photo: barb-bryant.jpg
+- Email: president@navigationgames.org
+
+Barb got started by volunteering in her kids' classrooms in Cambridge, MA, and one thing led to another. She is now the President of Navigation Games and her focus is to bring orienteering into schools and to every child in the city. Barb is also the former Vice President of Youth Initiatives for Orienteering USA. Barb believes that orienteering teaches kids how to make good decisions: to think and act at the same time in a concerted way.
+
+Certifications: Safesport Certified, First Aid/CPR/AED Certified
+
+## Board of Directors
+
+Meet our board on the [Board of Directors page](https://www.navigationgames.org/board-of-directors/).
+
+## Former contributors
+
+- Layout: compact
+
 ### Marius Oksholen
 
-- Role: Program Staff
 - Photo: marius-oksholen.jpg
-- Email: marius@navigationgames.org
 
 Marius is originally from Norway and he holds a master’s degree in naval structural engineering from the Norwegian University of Science and Technology. Marius has worked as both a product manager and a project manager, and is excited to bring his skills and love of the outdoors to Navigation Games. He enjoys running, sailing, and spending time outside with his wife and 3-year old son.
 
 ### Jackson Codd
 
-- Role: Programming, IT support, Marketing
 - Photo: jackson-codd.jpg
-- Email: jackson@navigationgames.org
 
 Jackson has done it all with Navigation Games - programming, IT support, marketing, and both participating in and running the Cambridge Mayor’s Summer Youth Employment program. Since he first got involved (in 2018), he’s been incredible - mucking in where needed, doing what is asked and all with a smile and great attitude.
 
 ### AnnLinn Gaasenbeek
 
-- Role: Program Staff
 - Photo: annlinn-gaasenbeek.jpg
-- Email: annlinn@navigationgames.org
 
 AnnLinn is a certified youth orienteering coach from Finland, trained through the Orienteering Union of Finland. Since 2023, she has coached junior orienteers at Lahden Suunnistajat -37, planning sessions, designing activities, and preparing competition maps. A national-level orienteer herself, AnnLinn is joining Navigation Games as an Orienteer in Residence.
 
 ### Noah Sommerhein
 
-- Role: Program Staff
 - Photo: noah-sommerhein.jpg
-- Email: noah@navigationgames.org
 
 Noah is an orienteer from Norway competing at a high national level and a certified Level 1 orienteering coach. He has coached children ages 10 to 12 at two clubs in Norway, with a focus on building navigation skills, confidence, and community among young athletes. Noah attended Wang Toppidrett, Norway's elite sports high school, and is fluent in English after spending a year at a public school in Berkeley, California.
-
-## Former contributors
-
-### Mikayla Moss
-
-- Photo: mikayla-moss.jpg
-
-Mikayla is the former Program Manager at Navigation Games. Originally from Colorado, Mikayla's background is in natural resources and conservation science. She was formerly the program manager and executive director for a conservation organization in Montana, and is thrilled to bring her passion for outdoor activity and education to Navigation Games.
-
-Mikayla loves bikepacking, paddling, and backpacking with her partner.
 
 ### Juan de Oliveira
 
 - Photo: juan-de-oliveira.jpg
 
-Juan is a former elite orienteering athlete from Brazil, with an international background in competitions and volunteering. After over 7 years of competing at a high level, he now serves as a member of the Brazilian Air Force Sports Committee, dedicating around a hundred days per year to teaching, mapping, event organization, and training. He originally worked at Navigation Games with his wife, Pavela.
+Juan is a former elite orienteering athlete from Brazil, with an international background in competitions and volunteering. After over 7 years of competing at a high level, he now serves as a member of the Brazilian Air Force Sports Committee, dedicating around a hundred days per year to teaching, mapping, event organization, and training. He originally worked at Navigation Games with his wife, Pavla.
+
+### Pavla Zdrahalova
+
+- Photo: pavla-zdrahalova-juan-de-oliveira.jpg
+
+Pavla is from Brazil with experience in coaching. She was a coach for the Silva O Camp, which has had participants from many different countries, and many of them go on to be on their country's national team. She has worked with kids between ages 8 and 18, teaching and coaching them orienteering. She worked with Navigation Games in April/May of 2018 with her husband, Juan de Oliveira, volunteering with program development and teaching kids.
 
 ### David Landrigan
 
@@ -111,12 +117,6 @@ Evalin began working with Navigation Games in June 2018, coaching middle school 
 Kieran Woods is an experienced orienteer from New Zealand who has been involved in the sport since middle school and was our orienteer-in-residence at Navigation Games in 2024/25. While volunteering with us, Kieran took on a leading role in Navigation Games’ map making and management work. He has worked with many of our teen employees and volunteers and staff to complete maps to a high standard and took on a mentorship role with the local high school orienteering team members.
 
 Back home, Kieran is an active member of Auckland Orienteering Club and currently serves as the club president. Over the years, he has competed and coached nationally and internationally for New Zealand.
-
-### Ethan Childs
-
-- Photo: ethan-childs.jpg
-
-Ethan was Program Director at Navigation Games for 6 years prior to graduating to the Board of Directors in 2022. He has raced for Team USA at both Junior and regular World Orienteering Championships.
 
 ### Marina Carlson
 
@@ -208,12 +208,6 @@ Charlotte was a Program Delivery Coach at Navigation Games where she helped to d
 
 Charlotte brought to the team many years of working with kids in outdoors settings, including leading rock climbing courses, ropes courses, as well as paddleboarding and kayaking courses.
 
-### Pavla Zdrahalova & Juan de Oliveira
-
-- Photo: pavla-zdrahalova-juan-de-oliveira.jpg
-
-Pavla and Juan are from Brazil with experience in coaching. Pavla was a coach for the Silva O Camp, which has had participants from many different countries, and many of them go on to be on their country's national team. They have worked with kids between ages 8 and 18 and teaching/coaching them orienteering. They worked with Navigation Games in April/May of 2018, volunteering with program development and teaching kids. Juan is also a member of the Brazilian Air Force Orienteering Team.
-
 ### Meka Greenwald
 
 - Photo: meka-greenwald.jpg
@@ -222,20 +216,16 @@ Meka spent summer 2024 at Navigation Games and ran the Cambridge Mayor’s Summe
 
 ### Jules Fourment
 
-
 Visiting orienteer, Mayor's Program, Summer 2024
 
 ### Tom Dagicour
-
 
 Visiting orienteer, Mayor's Program, Summer 2023
 
 ### Julian Coeurdassier
 
-
 Visiting orienteer, Summer 2023
 
 ### Nuno Cossa
-
 
 Visiting orienteer, Fall 2023

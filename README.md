@@ -22,6 +22,10 @@ Commit to `main` and GitHub Actions publishes the site in a few minutes.
 ```
 ## Category name
 
+- Layout: compact
+
+Optional intro text for the category.
+
 ### Person Name
 
 - Role: Program Staff
@@ -31,7 +35,7 @@ Commit to `main` and GitHub Actions publishes the site in a few minutes.
 Bio paragraphs.
 ```
 
-Each `##` heading is a category; add, rename or reorder them freely. Role, Photo and Email are optional. Square photos about 400 pixels wide work best.
+Each `##` heading is a category; add, rename or reorder them freely. `Layout: compact` gives a category smaller cards (used for long lists like former contributors). Role, Photo and Email are optional. Square photos about 400 pixels wide work best.
 
 ## Running locally
 

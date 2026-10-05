@@ -4,6 +4,8 @@
 //   # Page title
 //   Intro paragraphs
 //   ## Category name          (any number of categories)
+//   - Layout: compact         (optional: smaller cards, for long lists)
+//   Category intro text       (optional)
 //   ### Person name
 //   - Role: ...               (optional)
 //   - Photo: file.jpg         (optional, file in static/img/team/)
@@ -29,7 +31,7 @@ for (const line of src.split(/\r?\n/)) {
   if ((m = line.match(/^# (.+)/))) {
     title = m[1].trim();
   } else if ((m = line.match(/^## (.+)/))) {
-    category = { name: m[1].trim(), people: [] };
+    category = { name: m[1].trim(), intro: [], people: [] };
     categories.push(category);
     person = null;
   } else if ((m = line.match(/^### (.+)/))) {
@@ -40,7 +42,11 @@ for (const line of src.split(/\r?\n/)) {
     person[m[1].toLowerCase()] = m[2].trim();
   } else if (person) {
     person.bio.push(line);
-  } else if (!category) {
+  } else if (category && (m = line.match(/^- Layout:\s*compact/i))) {
+    category.compact = true;
+  } else if (category) {
+    category.intro.push(line);
+  } else {
     intro.push(line);
   }
 }
@@ -50,7 +56,11 @@ const esc = (s) => s.replace(/[{}<>]/g, (c) => '\\' + c);
 
 let out = `---\ntitle: ${title}\n---\n\n# ${title}\n\n${esc(intro.join('\n').trim())}\n\n`;
 for (const c of categories) {
-  out += `## ${c.name}\n\n<div className="team">\n\n`;
+  out += `## ${c.name}\n\n`;
+  const catIntro = esc(c.intro.join('\n').trim());
+  if (catIntro) out += `${catIntro}\n\n`;
+  if (!c.people.length) continue;
+  out += `<div className="${c.compact ? 'team compact' : 'team'}">\n\n`;
   for (const p of c.people) {
     out += `<div className="person">\n\n`;
     if (p.photo) out += `![${p.name}](/img/team/${p.photo})\n\n`;
