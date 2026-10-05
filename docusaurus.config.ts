@@ -79,6 +79,7 @@ const config: Config = {
             {label: 'News', href: `${wix}/blog`},
             {label: 'Latest newsletter', href: `${wix}/latest-end-year-news`},
             {label: 'In the press', href: 'https://sites.google.com/navigationgames.org/orienteeringlessons/in-the-press'},
+            {label: 'Contact', href: `${wix}/contact`},
           ],
         },
         {label: 'Shop', href: `${wix}/shop`, position: 'right'},
