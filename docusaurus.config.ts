@@ -45,7 +45,7 @@ const config: Config = {
           type: 'dropdown', label: 'Teach', position: 'left',
           items: [
             {label: 'Curriculum', href: 'https://navigation-games.github.io/curriculum/'},
-            {label: 'NG services', href: `${wix}/services`},
+            {label: 'Services', href: `${wix}/services`},
             {label: 'Workshops', href: 'https://sites.google.com/navigationgames.org/orienteeringlessons/workshops'},
             {label: 'Talk to us', href: `${wix}/contact`},
           ],
@@ -53,17 +53,17 @@ const config: Config = {
         {
           type: 'dropdown', label: 'Events', position: 'left',
           items: [
-            {label: 'Orienteering events', href: `${wix}/orienteering-events`},
-            {label: 'Educator training', href: `${wix}/educator-training`},
-            {label: 'Conference workshops', href: `${wix}/copy-of-orienteering-events`},
-            {label: 'NEOC calendar', href: 'https://neoc.org/events-schedule'},
+            {label: 'Orienteering Events', href: `${wix}/orienteering-events`},
+            {label: 'Educator Training', href: `${wix}/educator-training`},
+            {label: 'Conference Workshops', href: `${wix}/copy-of-orienteering-events`},
+            {label: 'NEOC Calendar', href: 'https://neoc.org/events-schedule'},
           ],
         },
         {
           type: 'dropdown', label: 'Get Involved', position: 'left',
           items: [
             {label: 'Volunteer', href: `${wix}/get-involved`},
-            {label: 'Orienteers in residence', href: `${wix}/orienteers-in-residence`},
+            {label: 'Orienteers in Residence', href: `${wix}/orienteers-in-residence`},
             {label: 'Jobs', href: `${wix}/job-opportunities`},
             {label: 'Donate', href: `${wix}/donate`},
           ],
@@ -71,14 +71,12 @@ const config: Config = {
         {
           type: 'dropdown', label: 'About', position: 'left',
           items: [
-            {label: 'Our story', href: `${wix}/about`},
-            {label: 'Meet the team', to: '/meet-the-team/'},
-            {label: 'Board of directors', href: `${wix}/board-of-directors`},
+            {label: 'What is Orienteering?', href: 'https://navigation-games.github.io/curriculum/about/about-orienteering/#what-is-orienteering'},
+            {label: 'Our Story', href: `${wix}/about`},
+            {label: 'Blog', href: `${wix}/blog`},
+            {label: 'Meet the Team', to: '/meet-the-team/'},
+            {label: 'Board of Directors', href: `${wix}/board-of-directors`},
             {label: 'Partners', href: `${wix}/partners`},
-            {label: 'What is orienteering?', href: `${wix}/orienteering-101`},
-            {label: 'News', href: `${wix}/blog`},
-            {label: 'Latest newsletter', href: `${wix}/latest-end-year-news`},
-            {label: 'In the press', href: 'https://sites.google.com/navigationgames.org/orienteeringlessons/in-the-press'},
             {label: 'Contact', href: `${wix}/contact`},
           ],
         },
