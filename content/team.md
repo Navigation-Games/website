@@ -1,6 +1,6 @@
 # Meet the Team
 
-There have been too many people involved in Navigation Games over the years to name everyone - we have had hundreds of volunteers and part-timers who helped deliver programs, ran the organization and provided input into everything that we do. A special shout out to our amazing technology team, who are working on EasyGec to make it more user friendly for us and our partners.
+Navigation Games is the work of many hands. Hundreds of staff, volunteers, visiting orienteers and teens have taught classes, made maps, designed courses and shaped our programs. Here are some of them, and we are grateful to them all.
 
 ## Our team
 
@@ -68,6 +68,12 @@ Meet our board on the [Board of Directors page](https://www.navigationgames.org/
 
 Cristina joined as Executive Director in 2018. A former US team member at the World Orienteering Championships and World Ski Orienteering Championships, she had coached everyone from 8-year-old beginners to the US Junior and Senior Teams.
 
+### Ethan Childs
+
+- Photo: ethan-childs.jpg
+
+Ethan was Program Director for 6 years and now serves on our Board of Directors. He has raced for Team USA at both the Junior and senior World Orienteering Championships.
+
 ### Tanairi Sorrentini
 
 - Photo: tanairi-sorrentini.jpg
@@ -90,7 +96,7 @@ David worked on all aspects of our programming over several years. He brought hu
 
 - Photo: evalin-brautigam.jpg
 
-Evalin started in June 2018, coaching middle school teams and teaching community school classes. She grew up orienteering and represented the US internationally on the junior, university and senior national teams.
+Evalin started in June 2018, coaching middle school teams and teaching community school classes. She grew up orienteering and represented the US internationally on the junior, university and senior national teams. She later co-designed our Camp Belknap curriculum with Kieran Woods.
 
 ### Adam Miller
 
@@ -102,7 +108,7 @@ Adam joined in May 2018 with a degree in environmental science from the Universi
 
 - Photo: melanie-serguiev.jpg
 
-Melanie, a former US Junior National Team member who ran at multiple Junior World Championships, worked with Navigation Games after earning a degree in Outdoor Education from Northern Vermont University.
+Melanie was a staff member. Her college project on curriculum development became one of the foundations of our curriculum work with Cambridge Public Schools teachers. A former US Junior National Team member, she ran at multiple Junior World Championships.
 
 ### Jackson Codd
 
@@ -114,7 +120,7 @@ Jackson worked with us from 2018 in programming, IT support and marketing, and b
 
 - Photo: marius-oksholen.jpg
 
-Marius, from Norway, was program staff. He brought experience as a product and project manager and a love of the outdoors.
+Marius, from Norway, played many roles in 2025-26. He helped organize the 2025 US National Sprint Orienteering Championships in Boston's North End, managed development of our new curriculum website, and supported our programs.
 
 ### Lisa Borodina
 
@@ -126,13 +132,13 @@ Lisa led our marketing: refining our strategy, redesigning the website, creating
 
 - Photo: marina-carlson.jpg
 
-Marina worked with us in summer 2023 and designed our animal artwork.
+Marina was assistant to our teen program director in summer 2023, and designed our animal artwork.
 
 ### Meka Greenwald
 
 - Photo: meka-greenwald.jpg
 
-Meka ran the Cambridge Mayor's Summer Youth Employment program in summer 2024. His energy with youth, and his habit of questioning how things were done, improved everything he touched.
+Meka ran the Cambridge Mayor's Summer Youth Employment program in summer 2024. His energy with youth, and his habit of questioning how things were done, improved everything he touched. He now serves on our Board of Directors.
 
 ### Saskia Dejeanlouis
 
@@ -214,7 +220,7 @@ Maiken came from Norway to volunteer in summer 2018. Her sports management studi
 
 - Photo: eugenio-trevisan.jpg
 
-Eugenio, an orienteering expert who has organized more than 100 races and founded OrienteeringTime.com, volunteered with Navigation Games.
+Eugenio, from Italy, was an orienteer in residence. He has organized more than 100 orienteering races and founded OrienteeringTime.com.
 
 ### Jules Fourment
 
@@ -231,3 +237,7 @@ Visiting orienteer, summer 2023.
 ### Nuno Cossa
 
 Visiting orienteer, fall 2023.
+
+## Missing someone?
+
+If you worked with Navigation Games and don't see yourself here, or know someone who should be, please [contact us](https://www.navigationgames.org/contact)!
