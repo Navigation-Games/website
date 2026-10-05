@@ -1,6 +1,6 @@
 # Meet the Team
 
-Navigation Games is the work of many hands. Hundreds of staff, volunteers, visiting orienteers and teens have taught classes, made maps, designed courses and shaped our programs. Here are some of them, and we are grateful to them all.
+Navigation Games is the work of many hands. Hundreds of staff, volunteers, visiting orienteers and teens have taught classes, made maps, designed courses and shaped our programs. Here are our key contributors; see also our Board of Directors page.
 
 ## Our team
 
