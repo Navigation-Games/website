@@ -1,0 +1,75 @@
+/* All site styling lives in this one file. */
+
+/* Colors and fonts, matched to the Wix site */
+:root {
+  --ng-green: #57744c;
+  --ng-orange: #ff683a;
+  --ng-text: #191919;
+
+  --ifm-color-primary: var(--ng-green);
+  --ifm-color-primary-dark: #4e6844;
+  --ifm-color-primary-darker: #4a6340;
+  --ifm-color-primary-darkest: #3d5135;
+  --ifm-color-primary-light: #608054;
+  --ifm-color-primary-lighter: #658658;
+  --ifm-color-primary-lightest: #729764;
+  --ifm-font-color-base: var(--ng-text);
+  --ifm-font-family-base: 'Open Sans', Arial, sans-serif;
+  --ifm-heading-font-family: 'Raleway', Arial, sans-serif;
+  --ifm-container-width-xl: 1140px;
+}
+
+/* Header: logo and name, menu, then Search, Shop, Donate */
+.navbar__title {
+  font-family: var(--ifm-heading-font-family);
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.navbar .donate {
+  background: var(--ng-orange);
+  color: #fff;
+  border-radius: 4px;
+  margin-left: 0.5rem;
+}
+
+.navbar .donate:hover {
+  background: #e85a2e;
+  color: #fff;
+}
+
+/* Footer */
+.footer {
+  background: var(--ng-green);
+}
+
+/* Meet the Team: a grid of people that reflows from 3 columns to 1 */
+.team {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 2rem;
+  margin-bottom: 3rem;
+}
+
+.person img {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.person h3 {
+  margin: 0.75rem 0 0.25rem;
+}
+
+.person .role {
+  margin: 0;
+  color: var(--ng-green);
+  font-weight: 600;
+}
+
+.person .email {
+  margin: 0 0 0.75rem;
+  font-size: 0.9rem;
+}
