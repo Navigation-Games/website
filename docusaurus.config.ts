@@ -9,10 +9,8 @@ const config: Config = {
   tagline: 'Orienteering for every kid',
   favicon: 'img/favicon.ico',
 
-  // Change to url 'https://info.navigationgames.org' and baseUrl '/'
-  // once the info subdomain points at GitHub Pages.
-  url: 'https://navigation-games.github.io',
-  baseUrl: '/website/',
+  url: 'https://info.navigationgames.org',
+  baseUrl: '/',
   trailingSlash: true,
 
   organizationName: 'Navigation-Games',
