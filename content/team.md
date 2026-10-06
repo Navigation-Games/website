@@ -238,6 +238,20 @@ Visiting orienteer, summer 2023.
 
 Visiting orienteer, fall 2023.
 
+## Summer Interns
+
+- 2016: Ethan Rothenberg, Sam Peck, Keegan Harkavy, Peter Cannistaro, Lincoln Craven-Brightman, Walter Ditrani, Maggie Bayly, Jeffrey Chen, Vince Chen, Connor Bresnahan, Phineas DeSola, Ethan Hall
+- 2017: Ethan Rothenberg, Alex Rosenberg, Colin Harmer, Gabriel Nielsen-Nunez, Hersh Kanner, Keegan Harkavy, Sophia Price, Vince Chen, Yasser Elfathy, Theo Boehm, Zoe McNerney, Alana Commons
+- 2018: Aidan O'Keefe, Chanpera Toeumhernand, Colin Harmer, Ellen Jacobson, Emie Gerard, Hersh Kanner, Jackson Codd, Julia Armand, Keegan Harkavy, Lucas Oliveira-Chace, Nathaniel Saintfort, Peter Phan, Priya Landrigan, Sarah Hughes, Shanti Söderström, Shayne Thorpe, Theo Boehm, Vince Chen
+- 2019: 
+- 2020: Fadi Abu-Rubieh, Tatiyana Burns, Kidus Desalegn, Tayla Kenney, James Smyth, Jiaming Wang
+- 2021: 
+- 2022: Louson Saint Vil, Robert Moakley, Abdiwahab (Abdi) Muhumed, Antonio (Tony) Colon, William (Billy) Rutledge, Blaine (BJ) Henry
+- 2023: 
+- 2024: Min-Jae (Logan) Kuo, Riley Bonanno, Heldana (Gabby) Mekuria, AJ Merabcien, Adrian Pena, Amélie Valenzuela-Melzer, Andy Driscoll, Henry Burkett, Arsalan Anwar, Safia Singh
+- 2025: Haben, Mustafa Paktiawal, Ahmad, Cristiano, Mohamad, Nufail Muhameid, Amélie Valenzuela-Melzer, Andy Driscoll, Rose Freedman-Riles, Senai
+- 2026: Joey (Joseph) Kanapka, Mustafa Paktiawal, Amélie Valenzuela-Melzer, Andy Driscoll
+
 ## Missing someone?
 
 If you worked with Navigation Games and don't see yourself here, or know someone who should be, please [contact us](https://www.navigationgames.org/contact)!
