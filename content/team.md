@@ -250,7 +250,7 @@ Visiting orienteer, fall 2023.
 - 2023: Awab, Brouk, Elias, Louisena, Matias, Max, Nia'yel, Riley, Zahab. NG Staff: Julian Coeurdassier, Tom Dagicour, Maiken Sandberg
 - 2024: Min-Jae (Logan) Kuo, Riley Bonanno, Heldana (Gabby) Mekuria, AJ Merabcien, Adrian Pena, Amélie Valenzuela-Melzer, Andy Driscoll, Henry Burkett, Arsalan Anwar, Safia Singh NG staff: Meka Greenwald, Jules Fourment
 - 2025: Haben, Mustafa Paktiawal, Ahmad, Cristiano, Mohamad, Nufail Muhameid, Amélie Valenzuela-Melzer, Andy Driscoll, Rose Freedman-Riles, Senai. NG staff: Saskia Dejeanlouis, Juan Josivan, Erkan Sezgin
-- 2026: Joey (Joseph) Kanapka, Mustafa Paktiawal, Amélie Valenzuela-Melzer, Andy Driscoll. Per Noah Sommerhein, Annlinn Gaasenbeek, Erkan Sezgin
+- 2026: Joey (Joseph) Kanapka, Mustafa Paktiawal, Amélie Valenzuela-Melzer, Andy Driscoll. NG staff: Per Noah Sommerhein, Annlinn Gaasenbeek, Erkan Sezgin
 
 ## Missing someone?
 
