@@ -58,6 +58,22 @@ Certifications: Safesport Certified, First Aid/CPR/AED Certified
 
 Meet our board on the [Board of Directors page](https://www.navigationgames.org/board-of-directors/).
 
+## Former board members
+
+Thank you to everyone who has served on our board.
+
+### Sara Mae Berman
+
+- Role: Former board member (Cambridge Sports Union)
+
+### Liz McNerney
+
+- Role: Former board member and key volunteer
+
+### David Gibbs
+
+- Role: Former board member
+
 ## Staff alumni
 
 - Layout: compact
@@ -146,6 +162,18 @@ Meka ran the Cambridge Mayor's Summer Youth Employment program in summer 2024. H
 
 Saskia led the Cambridge Mayor's Summer Youth Program in summer 2025. A kindergarten specialist focused on Responsive Classroom and social-emotional learning, she brought playful, active learning to the program.
 
+### Jen Ferguson
+
+Jen was Assistant Director in 2020.
+
+### Bryna Chalmer
+
+Bryna was a member of our staff in 2021.
+
+### Emilee Vizenor
+
+Emilee managed our Conferences project as a contractor until 2026.
+
 ## Orienteers in residence and visitors
 
 - Layout: compact
@@ -198,11 +226,11 @@ Tomáš, a Czech mountain bike orienteer, came with Marie in 2018. He coached mi
 
 Marie, a Czech national team mountain bike orienteer, coached middle school teams and helped develop our programs in 2018.
 
-### Juan de Oliveira
+### Juan Josivan de Oliveira
 
 - Photo: juan-de-oliveira.jpg
 
-Juan, a former elite orienteer from Brazil, volunteered in spring 2018 with his wife, Pavla, helping develop programs and teaching kids. He serves on the Brazilian Air Force Sports Committee.
+Juan, a former elite orienteer from Brazil, volunteered in spring 2018 with his wife, Pavla, helping develop programs and teaching kids. He returned as an orienteer in residence in 2025. He serves on the Brazilian Air Force Sports Committee.
 
 ### Pavla Zdrahalova
 
@@ -222,6 +250,14 @@ Maiken came from Norway to volunteer in summer 2018. Her sports management studi
 
 Eugenio, from Italy, was an orienteer in residence. He has organized more than 100 orienteering races and founded OrienteeringTime.com.
 
+### Isak Prellner
+
+Orienteer in residence, 2017. Supervised the Mayor's Summer Youth Employment program with Ethan Childs that summer.
+
+### Vilppu Viinikainen
+
+Orienteer in residence, 2022. Staff for the Mayor's Summer Youth Employment program that summer.
+
 ### Jules Fourment
 
 Visiting orienteer, Mayor's Program, summer 2024.
@@ -238,6 +274,36 @@ Visiting orienteer, summer 2023.
 
 Visiting orienteer, fall 2023.
 
+## Technology volunteers
+
+- Layout: compact
+
+Thank you to the volunteers on our tech team.
+
+### Alice Kaanta
+
+Tech team lead.
+
+### Ivy Wong
+
+Tech committee volunteer.
+
+### Charlie Moore
+
+Worked on technology development.
+
+### Oomi Pammit
+
+Tech team volunteer.
+
+### Quinn Bowers
+
+Tech team volunteer.
+
+### Margaret Zhou
+
+Tech team volunteer.
+
 ## Summer Interns
 
 - 2016: Ethan Rothenberg, Sam Peck, Keegan Harkavy, Peter Cannistaro, Lincoln Craven-Brightman, Walter Ditrani, Maggie Bayly, Jeffrey Chen, Vince Chen, Connor Bresnahan, Phineas DeSola, Ethan Hall. NG Staff: Ethan Childs, Marina Carlson
@@ -249,7 +315,7 @@ Visiting orienteer, fall 2023.
 - 2022: Louson Saint Vil, Robert Moakley, Abdiwahab (Abdi) Muhumed, Antonio (Tony) Colon, William (Billy) Rutledge, Blaine (BJ) Henry. NG Staff: Maiken Sandberg, Vilppu Viinikainen
 - 2023: Awab, Brouk, Elias, Louisena, Matias, Max, Nia'yel, Riley, Zahab. NG Staff: Julian Coeurdassier, Tom Dagicour, Maiken Sandberg
 - 2024: Min-Jae (Logan) Kuo, Riley Bonanno, Heldana (Gabby) Mekuria, AJ Merabcien, Adrian Pena, Amélie Valenzuela-Melzer, Andy Driscoll, Henry Burkett, Arsalan Anwar, Safia Singh NG staff: Meka Greenwald, Jules Fourment
-- 2025: Haben, Mustafa Paktiawal, Ahmad, Cristiano, Mohamad, Nufail Muhameid, Amélie Valenzuela-Melzer, Andy Driscoll, Rose Freedman-Riles, Senai. NG staff: Saskia Dejeanlouis, Juan Josivan, Erkan Sezgin
+- 2025: Haben, Mustafa Paktiawal, Ahmad, Cristiano, Mohamad, Nufail Muhameid, Amélie Valenzuela-Melzer, Andy Driscoll, Rose Freedman-Riles, Senai. NG staff: Saskia Dejeanlouis, Juan Josivan de Oliveira, Erkan Sezgin
 - 2026: Joey (Joseph) Kanapka, Mustafa Paktiawal, Amélie Valenzuela-Melzer, Andy Driscoll. NG staff: Per Noah Sommerhein, Annlinn Gaasenbeek, Erkan Sezgin
 
 ## Missing someone?
