@@ -306,6 +306,8 @@ Tech team volunteer.
 
 ## Summer Interns
 
+- Layout: compact
+
 - 2016: Ethan Rothenberg, Sam Peck, Keegan Harkavy, Peter Cannistaro, Lincoln Craven-Brightman, Walter Ditrani, Maggie Bayly, Jeffrey Chen, Vince Chen, Connor Bresnahan, Phineas DeSola, Ethan Hall. NG Staff: Ethan Childs, Marina Carlson
 - 2017: Ethan Rothenberg, Alex Rosenberg, Colin Harmer, Gabriel Nielsen-Nunez, Hersh Kanner, Keegan Harkavy, Sophia Price, Vince Chen, Yasser Elfathy, Theo Boehm, Zoe McNerney, Alana Commons. NG Staff: Ethan Childs, Isak Prellner
 - 2018: Aidan O'Keefe, Chanpera Toeumhernand, Colin Harmer, Ellen Jacobson, Emie Gerard, Hersh Kanner, Jackson Codd, Julia Armand, Keegan Harkavy, Lucas Oliveira-Chace, Nathaniel Saintfort, Peter Phan, Priya Landrigan, Sarah Hughes, Shanti Söderström, Shayne Thorpe, Theo Boehm, Vince Chen. NG staff: Ethan Childs, Melanie Serguiev, Maiken Sandberg, Adam Miller

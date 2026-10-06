@@ -58,7 +58,7 @@ let out = `---\ntitle: ${title}\n---\n\n# ${title}\n\n${esc(intro.join('\n').tri
 for (const c of categories) {
   out += `## ${c.name}\n\n`;
   const catIntro = esc(c.intro.join('\n').trim());
-  if (catIntro) out += `${catIntro}\n\n`;
+  if (catIntro) out += c.compact ? `<div className="team-intro compact">\n\n${catIntro}\n\n</div>\n\n` : `${catIntro}\n\n`;
   if (!c.people.length) continue;
   out += `<div className="${c.compact ? 'team compact' : 'team'}">\n\n`;
   for (const p of c.people) {
