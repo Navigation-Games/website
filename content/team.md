@@ -184,11 +184,11 @@ Emilee managed our Conferences project as a contractor until 2026.
 
 Kieran, from New Zealand, was our orienteer in residence in 2024/25. He led our map making, worked with teen employees, volunteers and staff to bring maps to a high standard, and mentored the local high school orienteering team. He is president of Auckland Orienteering Club.
 
-### AnnLinn Gaasenbeek
+### Annlinn Gaasenbeek
 
 - Photo: annlinn-gaasenbeek.jpg
 
-AnnLinn, a national-level orienteer and certified youth coach from Finland, was an Orienteer in Residence. At home she coaches junior orienteers at Lahden Suunnistajat -37.
+Annlinn, a national-level orienteer and certified youth coach from Finland, was an Orienteer in Residence. At home she coaches junior orienteers at Lahden Suunnistajat -37.
 
 ### Noah Sommerhein
 
