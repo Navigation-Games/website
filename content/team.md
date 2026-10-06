@@ -304,7 +304,7 @@ Tech team volunteer.
 
 Tech team volunteer.
 
-## Summer Interns
+## Summer Interns and Staff
 
 - Layout: compact
 
